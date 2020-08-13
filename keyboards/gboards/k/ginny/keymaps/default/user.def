@@ -55,3 +55,7 @@ KEYS(AR | AL | AT,                             cmb_9df323cd7986f7rsf,           
 PRES(AR | AL | AN,										KC_ESC)
 KEYS(AR | AL | AI,                             cmb_9df323ckolj6f7rsf,                  {KC_LALT, KC_D, COMBO_END})
 KEYS(AR | AL | AO,                             cmb_rstf23cdb026f7rsf,                  {KC_LGUI, KC_L, COMBO_END})
+
+// Copy-paste
+KEYS(AA | AS | AE,                             cmb_9df3tftrstt6f7rsf,                  {KC_LCTL, KC_C, COMBO_END})
+KEYS(AS | AE | AT,                             cmb_9df323cxcdtfrcdtf,                  {KC_LCTL, KC_V, COMBO_END})
