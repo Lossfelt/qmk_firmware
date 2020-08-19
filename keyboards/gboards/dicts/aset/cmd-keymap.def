@@ -26,3 +26,5 @@ PRES(CMD | AS | AN,									KC_HOME)
 PRES(CMD | AS | AP,									KC_END)
 PRES(CMD | AS | AI,									KC_INS)
 PRES(CMD | AS | AO,									KC_DEL)
+
+PRES(CMD | AN | AI,									KC_TAB)
